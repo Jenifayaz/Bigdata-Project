@@ -6,6 +6,8 @@
 →Investigated a Financial data to predict a whether it is an investment grade or not.
 
 • Balanced the data using Random Sampler Technique for optimized prediction.
+
 • For tuning, LASSO and RIDGE Regularization methods were applied in Logistic Regression.
+
 • Also predicted Rating by using Neural Network Model.
 
